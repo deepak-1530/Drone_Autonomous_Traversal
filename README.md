@@ -1,4 +1,4 @@
-<!-- # FastPlannerOctomap
+# FastPlannerOctomap
 
 ## Obstacle avoidance for drones using FastPlanner (https://github.com/HKUST-Aerial-Robotics/Fast-Planner), PX4 and Octomap.
 
@@ -108,4 +108,4 @@
 
                      Running the planner and controller remain the same as in simulation.
 
-                     Remote Desktop is used to run rviz and give the goal location. -->
+                     Remote Desktop is used to run rviz and give the goal location.
